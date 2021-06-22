@@ -1,0 +1,12 @@
+miss_hit==0.9.22
+pandas
+pytest
+pytest-cov
+black
+nb_black==1.0.7   # to use the black linter in jupyter books
+pre-commit
+Sphinx
+sphinxcontrib-matlabdomain
+sphinxcontrib-napoleon
+sphinx_rtd_theme
+

@@ -1,0 +1,7 @@
+# Ignore everything
+**
+
+# ... except for dependencies and source
+!Pipfile
+!Pipfile.lock
+!miss_hit_gallery
