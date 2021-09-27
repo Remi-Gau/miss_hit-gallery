@@ -9,4 +9,7 @@ Sphinx
 sphinxcontrib-matlabdomain
 sphinxcontrib-napoleon
 sphinx_rtd_theme
-
+jupyterlab
+flynt
+sourcery
+seaborn
